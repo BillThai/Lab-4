@@ -1,0 +1,36 @@
+h1 {
+	margin: auto;
+	width: 30%;
+	padding: 10px;
+	color:white;
+	position: relative;
+}
+
+body {
+			background-image: url("pictures/space.jpg");
+			background-size: cover;
+}
+
+table {
+				table-layout: fixed;
+				width: 50%;
+				border-collapse: collapse;
+				border: 1em solid black;
+				margin: auto;
+}
+
+th, td {
+	border: 3px solid black;
+	text-align: center;
+	color: white;
+}
+
+
+
+
+.image {
+	position: relative;
+	float: none;
+}
+
+
